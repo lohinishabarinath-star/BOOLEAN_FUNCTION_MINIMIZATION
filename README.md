@@ -65,7 +65,8 @@ Developed by: HARINARAYANAN.A RegisterNumber: 25017317
 
 **Timing Diagram**
 
-<img width="1317" height="366" alt="Screenshot 2025-11-18 200755" src="https://github.com/user-attachments/assets/82e32f82-152c-47c2-b1e7-551462b7b5d5" />
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/768a4fcb-16c2-4194-8099-eefd4c08b4fe" />
+
 
 **Result:**
 
